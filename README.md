@@ -26,4 +26,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/twoscoopsliam)
 
 <!-- Certifique-se de ter o arquivo waves.svg no repositório ou atualize a URL conforme necessário -->
-![Waves](https://raw.githubusercontent.com/williamjohndias/williamjohndias/main/waves.svg)
+![Waves](https://raw.githubusercontent.com/williamjohndias/williamjohndias/main/subdiretorio/waves.svg)
+
