@@ -22,7 +22,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=williamjohndias&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=williamjohndias&show_icons=true" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=williamjohndias&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=williamjohndias&layout=compact&langs_count=7&theme=tokyonight)" />
 </picture> 
      
   </a>
