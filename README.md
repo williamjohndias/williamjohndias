@@ -24,5 +24,8 @@
 [![Whatsapp](https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://www.linkedin.com/in/williamjohndias/](https://api.whatsapp.com/send?phone=5541988050827&text=Ol%C3%A1%2C%20William%2C%20tudo%20bem%3F%0AVim%20pelo%20seu%20portif%C3%B3lio..))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/twoscoopsliam)
 
- ![Snake animation](https://github.com/williamjohndias/williamjohndias/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation]([https://github.com/williamjohndias/williamjohndias/blob/output/github-contribution-grid-snake.svg](https://github.com/williamjohndias/williamjohndias/blob/output/github-contribution-grid-snake.svg
+))
+ 
+
 
