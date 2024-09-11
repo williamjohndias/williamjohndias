@@ -35,7 +35,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=williamjohndias&show_icons=true" />
 </picture>
 ![Text Image](https://via.placeholder.com/900x100.png?text=Obrigado+por+visitar+meu+perfil)
 
