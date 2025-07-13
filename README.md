@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Curitiba, PR<br><br>- 🔭 Cientista de Dados <br>- 📚 Formado em Ciências da Computação<br>- ⚡ No meu tempo livre gosto de fazer cursos, jogar, treinar...</p>
+<p align="left">Curitiba, PR<br><br>- 🔭 Cientista de Dados <br>- ⚡ No meu tempo livre gosto de fazer cursos, jogar, treinar...</p>
 
 ###
 
